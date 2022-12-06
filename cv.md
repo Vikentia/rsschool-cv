@@ -66,3 +66,16 @@ function averageString(str) {
 ```
 
 ---
+
+### Courses:
+
+-   Redev Course
+-   JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
+-   RS Schools Course «JavaScript/Front-end. Stage 0»
+
+---
+
+### Languages:
+
+-   Russian \- Native
+-   English \- B1
